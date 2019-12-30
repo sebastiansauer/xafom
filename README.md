@@ -60,7 +60,7 @@ Bitte stellen Sie Probleme, Ideen und Hilfegesuche [hier](https://github.com/seb
 
 - Sie müssen online sein, um die Folien in der HTML-Version zu erzeugen.
 - Mit Google Chrome können Sie die Folien als PDF-Datei ausdrucken/konvertieren.
-
+- Dieses R-Paket befindet sich in (früher) Entwicklung. Um eine neue Version zu bekommen, installieren Sie das Paket bitte erneut. 
 
 # Lizenz
 
