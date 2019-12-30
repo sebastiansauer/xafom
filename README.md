@@ -48,10 +48,18 @@ In RStudio klicken Sie auf *File > New File > RMarkdown ...*
 
 Wählen Sie dann *From Template* und suchen Sie in der Lister nach *Slide template for xafom*.
 
+![](img/xafom5.png)
+
 
 # Probleme und Hilfe
 
 Bitte stellen Sie Probleme, Ideen und Hilfegesuche [hier](https://github.com/sebastiansauer/xafom/issues) ein.
+
+
+# Hinweise
+
+- Sie müssen online sein, um die Folien in der HTML-Version zu erzeugen.
+- Mit Google Chrome können Sie die Folien als PDF-Datei ausdrucken/konvertieren.
 
 
 # Lizenz
