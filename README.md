@@ -15,6 +15,16 @@ Dieses Repositorium stellt nur die FOM-Folienvorlage im Rahmen eines R-Paketes b
 - [Xaringan](https://github.com/yihui/xaringan)
 
 
+# Beispiele
+
+![](img/xafom1.png)
+
+![](img/xafom2.png)
+
+![](img/xafom3.png)
+
+![](img/xafom4.png)
+
 
 
 
