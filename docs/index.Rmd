@@ -7,7 +7,7 @@ params:
   module: "Name des Moduls"  # Enter HERE the name of the presentation/course/module
   semester: "SoSe 20"   # Enter HERE the date/semester/term
   shorttitle: "Skript"  # Enter HERE a subtitle/shorttitle
-  instructor: "Name der Lehrpreson"  # ENTER here the presentator's/instructor's name
+  instructor: "Name der Lehrperson"  # ENTER here the presentator's/instructor's name
 output:
   xaringan::moon_reader:
     includes:
@@ -34,7 +34,7 @@ layout: true
 ---
 
 
-Define an automatic count for header 1/2/exercises
+<!-- Define an automatic count for header 1/2/exercises -->
 ```{r echo = FALSE}
 h1_count <<- 0
 
