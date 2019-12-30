@@ -1,0 +1,92 @@
+---
+title: "`r params$module`"
+subtitle: "`r params$shorttitle`"
+author: "`r params$instructor`"
+date: "`r params$semester`"
+params:
+  module: "Datenerhebung und Statistik"
+  semester: "SoSe 20"
+  shorttitle: "Skript"
+  instructor: "Sebastian Sauer"
+output:
+  xaringan::moon_reader:
+    includes:
+      after_body: insert-logo.html
+    lib_dir: libs
+    css: ["footer-header.css", "xafom.css"]
+    nature:
+      titleSlideClass: [middle, right]
+      ratio: "4:3"
+---
+
+
+layout: true
+  
+<div class="my-header"></div>
+
+
+<div class="my-footer"><span>`r params$semester`    
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+`r params$instructor` | `r params$module` </span></div> 
+
+<div class="footer-line"></div>
+
+---
+
+```{r echo = FALSE}
+h1_count <<- 0
+
+h1 <- function() {
+  h1_count <<- h1_count + 1
+  return(h1_count)
+}
+```
+
+
+class:  section 
+
+
+# .large[.grey[`r h1()`]] Neuer Abschnitt
+
+
+---
+
+
+## Test Level2
+
+.dark[sdakjflsf]
+
+*adsfjkl*
+
+`r h1()`
+
+```{r}
+h1()
+```
+
+
+**strong**
+
+
+
+
+---
+
+# Test 3
+
+sdkjfl:
+
+- sdjkfl
+
+- sjfkl
+
+
+
+
+
+---
+
+class: center, inverse, middle
+
+asdjklfsadf

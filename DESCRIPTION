@@ -1,0 +1,21 @@
+Package: xafom
+Title: Xaringan Template With FOM University of Applied Sciences (fom.de) Theme
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Sebastian",
+           family = "Sauer",
+           role = c("aut", "cre"),
+           email = "sebastiansauer1@gmail.com")
+Description: A template and CSS files for reproducing the presentation style of
+   FOM University of Applied Sciences (www.fom.de), a Germany based higher education institution. This
+    package lets you achieve that style but also use the power of RMarkdown.
+License: MIT + file LICENSE
+URL:https://github.com/sebastiansauer/xafom
+BugReports:https://github.com/sebastiansauer/xafom/issues
+Encoding: UTF-8
+LazyData: true
+Imports:
+    xaringan
+Remotes:
+    yihui/xaringan
+RoxygenNote: 6.1.1
