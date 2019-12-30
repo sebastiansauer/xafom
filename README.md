@@ -5,11 +5,11 @@ Dieses Repositorium stellt eine Xaringan-Folienvorlage für die FOM (Fachhochsch
 
 Mithilfe von [Xaringan](https://github.com/yihui/xaringan) kann man auf einfache Art und Weise [(R)Markdown]()-Folien erstellen; die Folien werden im HTML-Format erzeugt (PDF-Versionen sind möglich).
 
-Eine Einführung in die Funktionalitäten von Xaringan findet sich [hier als Xaringan-Präsentation](https://slides.yihui.org/xaringan/#)1. Weitere Details finden sich auf der [Xaringan-Homepage](https://github.com/yihui/xaringan/wiki).
+Eine Einführung in die Funktionalitäten von Xaringan findet sich [hier als Xaringan-Präsentation](https://slides.yihui.org/xaringan/#). Weitere Details finden sich auf der [Xaringan-Homepage](https://github.com/yihui/xaringan/wiki).
 
 Dieses Repositorium stellt nur die FOM-Folienvorlage im Rahmen eines R-Paketes bereit. Alle übrigen zentralen Funktionalitäten werden von bestehender Software übernommen wie 
 
-- [R](https://www.r-project.org/
+- [R](https://www.r-project.org/)
 - [RMarkdown](https://rmarkdown.rstudio.com/) 
 - [knitr](https://yihui.org/knitr/)
 - [Xaringan](https://github.com/yihui/xaringan)
