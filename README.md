@@ -51,12 +51,12 @@ Wählen Sie dann *From Template* und suchen Sie in der Lister nach *Slide templa
 
 # Probleme und Hilfe
 
-Bitte stellen Sie Probleme und Hilfe [hier](https://github.com/sebastiansauer/xafom/issues) ein.
+Bitte stellen Sie Probleme, Ideen und Hilfegesuche [hier](https://github.com/sebastiansauer/xafom/issues) ein.
 
 
 # Lizenz
 
-Die Software von `xafom` ist nach MIT lizensiert. FOM-Logos etc. sind urheberrechtlich durh die FOM gGmbH geschützt. 
+Die Software von `xafom` ist nach MIT lizensiert. FOM-Logos etc. sind urheberrechtlich durh die FOM gGmbH geschützt. Siehe die Lizenzdatei für mehr Hinweise.
 
 
 
