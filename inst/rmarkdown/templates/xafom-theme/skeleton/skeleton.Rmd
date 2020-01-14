@@ -32,7 +32,7 @@ layout: true
 
 <div class="footer-line"></div>
 
----
+
 
 
 <!-- Define an automatic count for header 1/2/exercises -->
@@ -60,11 +60,12 @@ ex <- function() {
 }
 ```
 
+---
 
-class:  section 
+class: section 
 
 
-# .large[.grey[`r h1()`]] Neuer Abschnitt
+# Neuer Abschnitt Ebene 1, ohne Nummer
 
 
 ---
@@ -76,15 +77,22 @@ class:  section
 
 *adsfjkl*
 
-`r h1()`
-
 ```{r}
-h1()
+1+1
 ```
 
 
 **strong**
 
+---
+
+class: section 
+
+
+# .large[.grey[`r h1()`]] Neuer Abschnitt, Ebene 1, Auto-Nummer
+
+
+---
 
 
 
