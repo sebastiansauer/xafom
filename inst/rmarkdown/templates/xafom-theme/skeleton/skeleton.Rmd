@@ -20,17 +20,8 @@ output:
 ---
 
 
-layout: true
-  
-<div class="my-header"></div>
-
-<!-- the following lines define the header and the footer line: -->
-<div class="my-footer"><span>`r params$semester`    
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-`r params$instructor` | `r params$module` </span></div> 
-
-<div class="footer-line"></div>
+```{r child = "header-footer.Rmd"}
+```
 
 
 
