@@ -89,7 +89,7 @@ class: section
 
 ---
 
-# Test 3
+# Test 3, Aufzählung
 
 sdkjfl:
 
@@ -106,3 +106,16 @@ sdkjfl:
 class: center, inverse, middle
 
 asdjklfsadf
+
+---
+
+
+# Test: Buttons
+
+
+
+.button[jetzt!]
+
+.button_lightgreen[jetzt?]
+
+.button_red[jetzt nicht]
